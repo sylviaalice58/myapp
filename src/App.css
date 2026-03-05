@@ -80,3 +80,13 @@
     font-size: 150px;
   }
 }
+
+.Thirdcomponent{
+  background-color: #61dafb;
+  color: aliceblue;
+  padding: 25px;
+}
+
+.Forthcomponent{
+  background-color: violet;
+}
