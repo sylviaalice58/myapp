@@ -90,3 +90,31 @@
 .Forthcomponent{
   background-color: violet;
 }
+
+.Notfound{
+  font-size: 50px;
+  color: red;
+  font-weight: 900;
+}
+
+nav{
+  background-color: #0a637c;
+  padding: 20px;
+  
+}
+
+.navlinks{
+  margin: 10px;
+  color: azure;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: rgb(31, 223, 159);
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.navlinks:hover{
+  background-color: bisque;
+  color: black;
+}
